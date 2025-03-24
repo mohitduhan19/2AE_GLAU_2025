@@ -1,6 +1,5 @@
 package AE.Lec3_Lab;
 
-
 public class Middle_Linked_List {
      class ListNode {
         int val;
